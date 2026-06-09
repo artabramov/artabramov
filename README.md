@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there!
 
 Software developer interested in backend architecture, secure storage
 systems, self-hosted infrastructure, disaster recovery, long-term
